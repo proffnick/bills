@@ -28,5 +28,8 @@ yarn-error.log*
 # local env files
 .env*.local
 
+# exclude some envs
+/pages/api/quickbuy-2f0fd-firebase-adminsdk-xwk3g-d89b5029c9.json
+
 # vercel
 .vercel
